@@ -93,6 +93,9 @@ header {
     height: auto;
 }
 
+article h2 {
+   color: #eaeaea; 
+}
 
 /*PART TWO - MANIPULATING IMAGES WITH CSS */
 
